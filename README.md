@@ -210,13 +210,13 @@ Projeto de análise e conciliação envolvendo **Razão Contábil e Extrato**, b
 
 <td width="50%" valign="top">
 
-### ⚽ Brasileirão API
+### 👥 Portal RH
 
-Projeto utilizando dados de futebol através de **API**, explorando integração, consulta e organização de dados.
+Projeto acadêmico de um **Portal de Recursos Humanos**, desenvolvido com **PHP, HTML, CSS e JavaScript**, com foco em organização e gerenciamento de informações.
 
 **Focus:**
 
-`API • Data • Python • Integration`
+`PHP • Web Development • Database • HR`
 
 <br>
 
@@ -314,7 +314,7 @@ echo "[SYSTEM] Continuous learning mode: ENABLED"
 
 <div align="center">
 
-<a href="(https://www.linkedin.com/in/gabriel-molinari-b85095352/)">
+<a href="https://www.linkedin.com/in/gabriel-molinari-b85095352/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
