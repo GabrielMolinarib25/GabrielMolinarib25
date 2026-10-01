@@ -314,7 +314,7 @@ echo "[SYSTEM] Continuous learning mode: ENABLED"
 
 <div align="center">
 
-<a href="https://www.linkedin.com/search/results/people/?keywords=Gabriel%20Molinari%20Baptista">
+<a href="(https://www.linkedin.com/in/gabriel-molinari-b85095352/)">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
